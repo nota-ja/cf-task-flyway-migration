@@ -1,1 +1,1 @@
-worker:
+web: nc -l -k $PORT
